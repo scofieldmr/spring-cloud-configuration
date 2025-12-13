@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: "DEV Build"
-  type: "Development Application"
+  name: "DEFAULT Build"
+  type: "Defaut Application"
