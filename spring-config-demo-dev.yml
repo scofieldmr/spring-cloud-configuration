@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: "DEV GIT Build"
+  name: "UPDATED DEV GIT Build"
   type: "Dev git Application"
