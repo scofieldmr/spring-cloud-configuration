@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: "DEFAULT Build"
-  type: "Defaut Application"
+  name: "DEFAULT-GIT Build"
+  type: "Default git Application"
