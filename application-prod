@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.0.0
-  name: "PROD Build"
-  type: "prod Application"
+  name: "PROD-GIT Build"
+  type: "prod-git Application"
